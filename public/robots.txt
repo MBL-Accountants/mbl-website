@@ -1,0 +1,8 @@
+# robots.txt for http://www.mblbusinessservices.co.uk/
+
+User-agent: *
+Disallow: /images/
+Disallow: /styles/
+Disallow: /contact.aspx
+Allow: /
+Sitemap: http://www.mblbusinessservices.co.uk/sitemap.xml
